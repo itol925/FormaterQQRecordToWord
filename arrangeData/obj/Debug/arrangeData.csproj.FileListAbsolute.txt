@@ -1,0 +1,11 @@
+E:\projects\arrangeData\arrangeData\bin\Debug\arrangeData.exe.config
+E:\projects\arrangeData\arrangeData\bin\Debug\arrangeData.exe
+E:\projects\arrangeData\arrangeData\bin\Debug\arrangeData.pdb
+E:\projects\arrangeData\arrangeData\obj\Debug\arrangeData.csprojResolveAssemblyReference.cache
+E:\projects\arrangeData\arrangeData\obj\Debug\arrangeData.exe
+E:\projects\arrangeData\arrangeData\obj\Debug\arrangeData.pdb
+E:\projects\arrangeData\arrangeData\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\projects\arrangeData\arrangeData\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\projects\FormaterQQRecordToWord\arrangeData\bin\Debug\arrangeData.exe.config
+E:\projects\FormaterQQRecordToWord\arrangeData\obj\Debug\arrangeData.exe
+E:\projects\FormaterQQRecordToWord\arrangeData\obj\Debug\arrangeData.pdb
